@@ -54,6 +54,20 @@ justify-content: space-between;
     height: 48px;
 }
 
+.img-produtos img{
+    height: 170px;
+    background-color: blue;
+    border-radius: 30px;
+}
+
+.img-produtos li{
+    list-style: none;
+    display: inline;
+    position: relative;
+    padding: 10px;
+
+}
+
 .brand-list li{
     display: inline;
     margin-right: 8px;
